@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 220" role="img" aria-labelledby="title">
+  <title id="title">LogicValley Sports Carnival 2026</title>
+  <defs>
+    <linearGradient id="gold-swoosh" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#b98422" />
+      <stop offset="1" stop-color="#e1bc59" />
+    </linearGradient>
+  </defs>
+  <g aria-hidden="true">
+    <path d="M22 170C50 120 79 87 130 58c-21 29-34 60-41 96 24-37 48-67 81-93-17 42-46 85-91 115-27 18-51 17-57-6Z" fill="url(#gold-swoosh)" />
+    <path d="M26 174c24-39 49-64 78-83-16 26-25 51-29 76-13 12-29 20-42 20-6 0-8-5-7-13Z" fill="#092b5a" />
+    <circle cx="83" cy="69" r="13" fill="#092b5a" />
+    <path d="m94 78 28-35 16 7-25 42 39 15-7 12-57-19Z" fill="#092b5a" />
+    <path d="m148 11 5 13 14 1-11 9 4 14-12-8-12 8 4-14-11-9 14-1Z" fill="#d2a33c" />
+    <path d="M100 120c25-25 48-50 67-77-4 30-16 57-35 79" fill="none" stroke="#d2a33c" stroke-linecap="round" stroke-width="8" />
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="178" y="18" width="34" height="34" rx="4" fill="#092b5a" />
+    <path d="M187 26v18h16M195 26v8l8 5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" />
+    <text x="220" y="45" fill="#158db6" font-size="29" font-weight="700">Logic</text>
+    <text x="292" y="45" fill="#092b5a" font-size="29" font-weight="700">Valley</text>
+    <text x="173" y="108" fill="#092b5a" font-size="56" font-style="italic" font-weight="900" letter-spacing="-2">SPORTS</text>
+    <text x="179" y="145" fill="#bd902d" font-size="31" font-style="italic" font-weight="800" letter-spacing="5">CARNIVAL</text>
+    <text x="308" y="181" fill="#092b5a" font-size="31" font-weight="800" letter-spacing="5">2026</text>
+    <path d="M179 155h294M179 190h119" stroke="#d2a33c" stroke-width="2" />
+    <text x="179" y="211" fill="#64748b" font-size="8" font-weight="700" letter-spacing="3">COMPETE  •  CONNECT  •  CELEBRATE</text>
+  </g>
+</svg>
